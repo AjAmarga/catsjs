@@ -1,4 +1,4 @@
-
+{
     id: 1,
     name: 'Ginger Muffin',
     imglink: 'https://images.unsplash.com/photo-1581898262339-10bac03c5818?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTF8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60',
@@ -58,4 +58,4 @@
     imglink: 'https://images.unsplash.com/photo-1587317536055-f32e61877376?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8ODJ8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60',
     email: 'ForKi@catmail.com'
   }
-
+}
